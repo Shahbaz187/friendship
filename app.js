@@ -7,7 +7,7 @@ propose = async() => {
   showMessage.style.display = "block";
     document.getElementById('felling').style.display="none"
   changeColor.background =
-    "linear-gradient(116.82deg, #ff94e7 0%, #27cbff 100%)";
+    "linear-gradient(116.82deg, #f787 0%, #27ff 100%)";
 
     const yesData = {
         "email": "ashmal@rana",
