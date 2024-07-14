@@ -2,11 +2,11 @@ html {
   height: 100%;
 }
 body {
-  background: #ff41f7;
+  background: #ffffff;
 }
 h1 {
   text-align: center;
-  color: white;
+  color: rgb(0, 0, 0);
   font-size: 72px;
   font-weight: 700;
   text-transform: uppercase;
@@ -20,9 +20,11 @@ h1 {
   height: 50px;
   margin: 25px 10px;
   font-weight: bold;
+  background: rgb(77, 77, 77);
+  color: white;
 }
 .btn:hover {
-  background-color: #ff4690;
+  background-color: #747474;
   border: 2px solid white;
 }
 @media (max-width: 1148px) {
